@@ -1,0 +1,10 @@
+name: GraphSage
+
+model:
+  hidden_size: 100
+  n_layers: 3
+  n_probes: 8
+  n_aheads: 2
+  intermediate_size: 50
+  dropout: 0.1
+  src_max_len: 125
